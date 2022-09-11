@@ -1,0 +1,26 @@
+{
+  "todos": [
+    {
+      "text": "learn javascript",
+      "completed": false,
+      "id": 1,
+      "color": "green"
+    },
+    {
+      "text": "learn redux toolkit",
+      "completed": false,
+      "id": 2,
+      "color": "yellow"
+    },
+    {
+      "text": "learn react",
+      "completed": false,
+      "id": 3,
+      "color": "red"
+    }
+  ],
+  "filter": {
+    "status": "All",
+    "colors": []
+  }
+}
